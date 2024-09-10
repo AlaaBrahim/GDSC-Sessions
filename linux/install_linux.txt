@@ -1,0 +1,30 @@
+Install options : dualboot, wsl, vm
+dualboot : system alongside windows, ki yethal l pc yes2lek enehou system eli theb trunnih
++ fast
++ direct access to hardware (exp: carte reseau)
++ comes with preinstalled tools
+- complicated to install(Partitioning Required)
+- risk to brick your system
+install tuto : https://www.youtube.com/watch?v=2vTVA-Nq0bw
+
+
+wsl(windows subsystem for linux) : linux fi west windows
++ easiet to install 
++/- barebones : only basic stuff is installed => lighter but u need to install tools on your own
+- generally used with terminal(can use gui but some config is nec sometimes)
+- some features are not supported
+- no access to hardware
+install tuto (no graphical interface : terminal only):
+1) open microsoft store
+2) search for wsl and install the first app, reboot recommended
+3) search for kali wsl and install the first app
+congrats! just type wsl in your terminal(cmd/powershell) and you will be inside your first linux system!
+ 
+virtual machine(vmware/virtual box) : 
++ isolation : seperate from the main os
++ no risk of bricking your system (unlike dualboot)
++ relatively easy setup
++ comes with preinstalled tools
+- slow
+- no direct access to hardware(still better then wsl)
+install tuto : https://www.youtube.com/watch?v=pwYH0NNWWzU

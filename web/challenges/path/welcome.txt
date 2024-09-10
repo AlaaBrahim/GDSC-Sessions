@@ -1,0 +1,3 @@
+Hello GDSC From Memberes, how r u today?
+Can u get the flag in the root of the file system?
+Here is a hint: the flag is located in /flag.txt

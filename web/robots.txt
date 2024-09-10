@@ -1,0 +1,2 @@
+User-agent: *
+Disallow: /challenges/robots/flag5454645.php

@@ -1,0 +1,3 @@
+just kidding !
+
+This is a hint, u will be looking for a file named flag.txt
